@@ -5,167 +5,233 @@
     {
       "type": "file",
       "name": "MATHS01-SETS.pdf",
-      "path": "MATHS01-SETS.pdf"
+      "path": "MATHS01-SETS.pdf",
+      "sha": "6fb2ac5d2003d696588ea8c284a9df79a0bcb346",
+      "mime": "application/pdf"
     },
     {
       "type": "file",
       "name": "MATHS02-RELATIONS.pdf",
-      "path": "MATHS02-RELATIONS.pdf"
+      "path": "MATHS02-RELATIONS.pdf",
+      "sha": "8aa00a0828bdc0e8b056648159ff706a249e2451",
+      "mime": "application/pdf"
     },
     {
       "type": "file",
       "name": "MATHS03-FUNCTIONS.pdf",
-      "path": "MATHS03-FUNCTIONS.pdf"
+      "path": "MATHS03-FUNCTIONS.pdf",
+      "sha": "d026e4b8770ce67a27f2a27373860b001381cae5",
+      "mime": "application/pdf"
     },
     {
       "type": "file",
       "name": "MATHS04-MEASUREMENT_OF_ANGLES.pdf",
-      "path": "MATHS04-MEASUREMENT_OF_ANGLES.pdf"
+      "path": "MATHS04-MEASUREMENT_OF_ANGLES.pdf",
+      "sha": "8a8b88364c907b502a3714359c6dab007f94c066",
+      "mime": "application/pdf"
     },
     {
       "type": "file",
       "name": "MATHS05-TRIGONOMETRIC_FUNCTIONS.pdf",
-      "path": "MATHS05-TRIGONOMETRIC_FUNCTIONS.pdf"
+      "path": "MATHS05-TRIGONOMETRIC_FUNCTIONS.pdf",
+      "sha": "cf694e4d5cdaa6a172c5a97305a1f7efc9f9673a",
+      "mime": "application/pdf"
     },
     {
       "type": "file",
       "name": "MATHS06-GRAPHS_OF_TRIGONOMETRIC_FUNCTIONS.pdf",
-      "path": "MATHS06-GRAPHS_OF_TRIGONOMETRIC_FUNCTIONS.pdf"
+      "path": "MATHS06-GRAPHS_OF_TRIGONOMETRIC_FUNCTIONS.pdf",
+      "sha": "dd1ccc2e5dc0d151a41c0847c9ee4dc3acfa42d6",
+      "mime": "application/pdf"
     },
     {
       "type": "file",
       "name": "MATHS07-TRIGONOMETRIC_RATIOS_OF_COMPOUND_ANGLES.pdf",
-      "path": "MATHS07-TRIGONOMETRIC_RATIOS_OF_COMPOUND_ANGLES.pdf"
+      "path": "MATHS07-TRIGONOMETRIC_RATIOS_OF_COMPOUND_ANGLES.pdf",
+      "sha": "c285982b9eddb264335ae03b02b4679d5f318549",
+      "mime": "application/pdf"
     },
     {
       "type": "file",
       "name": "MATHS08-TRANSFORMATION_FORMULAE.pdf",
-      "path": "MATHS08-TRANSFORMATION_FORMULAE.pdf"
+      "path": "MATHS08-TRANSFORMATION_FORMULAE.pdf",
+      "sha": "b05b695559a0f9f4e7435b40f7e6c2060cf6e9f3",
+      "mime": "application/pdf"
     },
     {
       "type": "file",
       "name": "MATHS09-TRIGONOMETRIC_RATIOS_OF_MULTIPLE_AND_SUBMULTIPLE_ANGLES.pdf",
-      "path": "MATHS09-TRIGONOMETRIC_RATIOS_OF_MULTIPLE_AND_SUBMULTIPLE_ANGLES.pdf"
+      "path": "MATHS09-TRIGONOMETRIC_RATIOS_OF_MULTIPLE_AND_SUBMULTIPLE_ANGLES.pdf",
+      "sha": "12b7bbc085bf25e7674817ee39aeadd568ea9b2e",
+      "mime": "application/pdf"
     },
     {
       "type": "file",
       "name": "MATHS10-SINE_AND_COSINE_FORMULAE_AND_THEIR_APPLICATIONS.pdf",
-      "path": "MATHS10-SINE_AND_COSINE_FORMULAE_AND_THEIR_APPLICATIONS.pdf"
+      "path": "MATHS10-SINE_AND_COSINE_FORMULAE_AND_THEIR_APPLICATIONS.pdf",
+      "sha": "a0c12696ab3e52c492523dc6439196a0c93a214b",
+      "mime": "application/pdf"
     },
     {
       "type": "file",
       "name": "MATHS11-TRIGONOMETRIC_EQUATIONS.pdf",
-      "path": "MATHS11-TRIGONOMETRIC_EQUATIONS.pdf"
+      "path": "MATHS11-TRIGONOMETRIC_EQUATIONS.pdf",
+      "sha": "8e3cb859d29eca658ea73f984d4d59cefd6095e8",
+      "mime": "application/pdf"
     },
     {
       "type": "file",
       "name": "MATHS12-MATHEMATICAL_INDUCTION.pdf",
-      "path": "MATHS12-MATHEMATICAL_INDUCTION.pdf"
+      "path": "MATHS12-MATHEMATICAL_INDUCTION.pdf",
+      "sha": "5d0a50ab914ccc7a8829e7ca4bbe7f9212354cb4",
+      "mime": "application/pdf"
     },
     {
       "type": "file",
       "name": "MATHS13-COMPLEX_NUMBERS.pdf",
-      "path": "MATHS13-COMPLEX_NUMBERS.pdf"
+      "path": "MATHS13-COMPLEX_NUMBERS.pdf",
+      "sha": "00e99e3021cd66fe156470a1d3fdd61479c33810",
+      "mime": "application/pdf"
     },
     {
       "type": "file",
       "name": "MATHS14-QUADRATIC_EQUATIONS.pdf",
-      "path": "MATHS14-QUADRATIC_EQUATIONS.pdf"
+      "path": "MATHS14-QUADRATIC_EQUATIONS.pdf",
+      "sha": "c1bb75ec09970f4db895851cd7dfec7df03611be",
+      "mime": "application/pdf"
     },
     {
       "type": "file",
       "name": "MATHS15-LINEAR_INEQUATIONS.pdf",
-      "path": "MATHS15-LINEAR_INEQUATIONS.pdf"
+      "path": "MATHS15-LINEAR_INEQUATIONS.pdf",
+      "sha": "30efca80eae92c435c96fe655fa121ad3c6763b4",
+      "mime": "application/pdf"
     },
     {
       "type": "file",
       "name": "MATHS16-PERMUTATIONS.pdf",
-      "path": "MATHS16-PERMUTATIONS.pdf"
+      "path": "MATHS16-PERMUTATIONS.pdf",
+      "sha": "2e6d8e7fe9e68fcfcd6f20a10d138826ec2bfc7e",
+      "mime": "application/pdf"
     },
     {
       "type": "file",
       "name": "MATHS17-COMBINATIONS.pdf",
-      "path": "MATHS17-COMBINATIONS.pdf"
+      "path": "MATHS17-COMBINATIONS.pdf",
+      "sha": "d12d8b08f40ce981c48cc1328bc20a378d55d55f",
+      "mime": "application/pdf"
     },
     {
       "type": "file",
       "name": "MATHS18-BINOMIAL_THEOREM.pdf",
-      "path": "MATHS18-BINOMIAL_THEOREM.pdf"
+      "path": "MATHS18-BINOMIAL_THEOREM.pdf",
+      "sha": "890cf2893d561d1a62fbaddb660423a14626cfcf",
+      "mime": "application/pdf"
     },
     {
       "type": "file",
       "name": "MATHS19-ARITHMETIC_PROGRESSIONS.pdf",
-      "path": "MATHS19-ARITHMETIC_PROGRESSIONS.pdf"
+      "path": "MATHS19-ARITHMETIC_PROGRESSIONS.pdf",
+      "sha": "d1ddf3b9855c1dc352fd3c48840d1b286a1b0626",
+      "mime": "application/pdf"
     },
     {
       "type": "file",
       "name": "MATHS20-GEOMETRIC_PROGRESSIONS.pdf",
-      "path": "MATHS20-GEOMETRIC_PROGRESSIONS.pdf"
+      "path": "MATHS20-GEOMETRIC_PROGRESSIONS.pdf",
+      "sha": "76caff31aeab911819b8bf21ea585bf38d12059b",
+      "mime": "application/pdf"
     },
     {
       "type": "file",
       "name": "MATHS21-SOME_SPECIAL_SERIES.pdf",
-      "path": "MATHS21-SOME_SPECIAL_SERIES.pdf"
+      "path": "MATHS21-SOME_SPECIAL_SERIES.pdf",
+      "sha": "35812e248306eefa524ddb5a0cc0da4a8f8341c5",
+      "mime": "application/pdf"
     },
     {
       "type": "file",
       "name": "MATHS22-BRIEF_REVIEW_OF_CARTESIAN_SYSTEM_OF_RECTANGULAR_CO_ORDINATES.pdf",
-      "path": "MATHS22-BRIEF_REVIEW_OF_CARTESIAN_SYSTEM_OF_RECTANGULAR_CO_ORDINATES.pdf"
+      "path": "MATHS22-BRIEF_REVIEW_OF_CARTESIAN_SYSTEM_OF_RECTANGULAR_CO_ORDINATES.pdf",
+      "sha": "759ae9c4b98393c9d7a51d711538fc0e63b07f6f",
+      "mime": "application/pdf"
     },
     {
       "type": "file",
       "name": "MATHS23-THE_STRAIGHT_LINES.pdf",
-      "path": "MATHS23-THE_STRAIGHT_LINES.pdf"
+      "path": "MATHS23-THE_STRAIGHT_LINES.pdf",
+      "sha": "552927c8226b827f90399ea0baf914fa56594502",
+      "mime": "application/pdf"
     },
     {
       "type": "file",
       "name": "MATHS24-THE_CIRCLE.pdf",
-      "path": "MATHS24-THE_CIRCLE.pdf"
+      "path": "MATHS24-THE_CIRCLE.pdf",
+      "sha": "935864b60a45eadfcc1c29d2f8311c8f315caeef",
+      "mime": "application/pdf"
     },
     {
       "type": "file",
       "name": "MATHS25-PARABOLA.pdf",
-      "path": "MATHS25-PARABOLA.pdf"
+      "path": "MATHS25-PARABOLA.pdf",
+      "sha": "43bbff53d36ba6df24cd60789329459686579c24",
+      "mime": "application/pdf"
     },
     {
       "type": "file",
       "name": "MATHS26-ELLIPSE.pdf",
-      "path": "MATHS26-ELLIPSE.pdf"
+      "path": "MATHS26-ELLIPSE.pdf",
+      "sha": "21b81602420464aa6d19c2be44f3c7769bcd7301",
+      "mime": "application/pdf"
     },
     {
       "type": "file",
       "name": "MATHS27-HYPERBOLA.pdf",
-      "path": "MATHS27-HYPERBOLA.pdf"
+      "path": "MATHS27-HYPERBOLA.pdf",
+      "sha": "9c773051d852b86f9ba08a5230a27e3954684ff4",
+      "mime": "application/pdf"
     },
     {
       "type": "file",
       "name": "MATHS28-INTRODUCTION_TO_3_D_COORDINATE_GEOMETRY.pdf",
-      "path": "MATHS28-INTRODUCTION_TO_3_D_COORDINATE_GEOMETRY.pdf"
+      "path": "MATHS28-INTRODUCTION_TO_3_D_COORDINATE_GEOMETRY.pdf",
+      "sha": "5aaba0fa46bae832a92aae483428b493b8daf847",
+      "mime": "application/pdf"
     },
     {
       "type": "file",
       "name": "MATHS29-LIMITS.pdf",
-      "path": "MATHS29-LIMITS.pdf"
+      "path": "MATHS29-LIMITS.pdf",
+      "sha": "d4b8da08d0c6777c8aa97f5ebb9f27df12a76b33",
+      "mime": "application/pdf"
     },
     {
       "type": "file",
       "name": "MATHS30-DERIVATIVES.pdf",
-      "path": "MATHS30-DERIVATIVES.pdf"
+      "path": "MATHS30-DERIVATIVES.pdf",
+      "sha": "9415631d5d0e6b98d581861f3a256e8f67acda80",
+      "mime": "application/pdf"
     },
     {
       "type": "file",
       "name": "MATHS31-MATHEMATICAL_REASONING.pdf",
-      "path": "MATHS31-MATHEMATICAL_REASONING.pdf"
+      "path": "MATHS31-MATHEMATICAL_REASONING.pdf",
+      "sha": "fca5c23c7ee4c0d8dcf915d712e705183bd04276",
+      "mime": "application/pdf"
     },
     {
       "type": "file",
       "name": "MATHS32-STATISTICS.pdf",
-      "path": "MATHS32-STATISTICS.pdf"
+      "path": "MATHS32-STATISTICS.pdf",
+      "sha": "94053fa14251d110f966f1ca9ce28ec95660a844",
+      "mime": "application/pdf"
     },
     {
       "type": "file",
       "name": "MATHS33-PROBABILITY.pdf",
-      "path": "MATHS33-PROBABILITY.pdf"
+      "path": "MATHS33-PROBABILITY.pdf",
+      "sha": "d78041eb6447c23fe736d3cd40f17469f4c858ee",
+      "mime": "application/pdf"
     }
   ]
 }
