@@ -1,0 +1,171 @@
+{
+  "type": "folder",
+  "name": "MATHS-RD-SHARMA",
+  "children": [
+    {
+      "type": "file",
+      "name": "MATHS01-SETS.pdf",
+      "path": "MATHS01-SETS.pdf"
+    },
+    {
+      "type": "file",
+      "name": "MATHS02-RELATIONS.pdf",
+      "path": "MATHS02-RELATIONS.pdf"
+    },
+    {
+      "type": "file",
+      "name": "MATHS03-FUNCTIONS.pdf",
+      "path": "MATHS03-FUNCTIONS.pdf"
+    },
+    {
+      "type": "file",
+      "name": "MATHS04-MEASUREMENT_OF_ANGLES.pdf",
+      "path": "MATHS04-MEASUREMENT_OF_ANGLES.pdf"
+    },
+    {
+      "type": "file",
+      "name": "MATHS05-TRIGONOMETRIC_FUNCTIONS.pdf",
+      "path": "MATHS05-TRIGONOMETRIC_FUNCTIONS.pdf"
+    },
+    {
+      "type": "file",
+      "name": "MATHS06-GRAPHS_OF_TRIGONOMETRIC_FUNCTIONS.pdf",
+      "path": "MATHS06-GRAPHS_OF_TRIGONOMETRIC_FUNCTIONS.pdf"
+    },
+    {
+      "type": "file",
+      "name": "MATHS07-TRIGONOMETRIC_RATIOS_OF_COMPOUND_ANGLES.pdf",
+      "path": "MATHS07-TRIGONOMETRIC_RATIOS_OF_COMPOUND_ANGLES.pdf"
+    },
+    {
+      "type": "file",
+      "name": "MATHS08-TRANSFORMATION_FORMULAE.pdf",
+      "path": "MATHS08-TRANSFORMATION_FORMULAE.pdf"
+    },
+    {
+      "type": "file",
+      "name": "MATHS09-TRIGONOMETRIC_RATIOS_OF_MULTIPLE_AND_SUBMULTIPLE_ANGLES.pdf",
+      "path": "MATHS09-TRIGONOMETRIC_RATIOS_OF_MULTIPLE_AND_SUBMULTIPLE_ANGLES.pdf"
+    },
+    {
+      "type": "file",
+      "name": "MATHS10-SINE_AND_COSINE_FORMULAE_AND_THEIR_APPLICATIONS.pdf",
+      "path": "MATHS10-SINE_AND_COSINE_FORMULAE_AND_THEIR_APPLICATIONS.pdf"
+    },
+    {
+      "type": "file",
+      "name": "MATHS11-TRIGONOMETRIC_EQUATIONS.pdf",
+      "path": "MATHS11-TRIGONOMETRIC_EQUATIONS.pdf"
+    },
+    {
+      "type": "file",
+      "name": "MATHS12-MATHEMATICAL_INDUCTION.pdf",
+      "path": "MATHS12-MATHEMATICAL_INDUCTION.pdf"
+    },
+    {
+      "type": "file",
+      "name": "MATHS13-COMPLEX_NUMBERS.pdf",
+      "path": "MATHS13-COMPLEX_NUMBERS.pdf"
+    },
+    {
+      "type": "file",
+      "name": "MATHS14-QUADRATIC_EQUATIONS.pdf",
+      "path": "MATHS14-QUADRATIC_EQUATIONS.pdf"
+    },
+    {
+      "type": "file",
+      "name": "MATHS15-LINEAR_INEQUATIONS.pdf",
+      "path": "MATHS15-LINEAR_INEQUATIONS.pdf"
+    },
+    {
+      "type": "file",
+      "name": "MATHS16-PERMUTATIONS.pdf",
+      "path": "MATHS16-PERMUTATIONS.pdf"
+    },
+    {
+      "type": "file",
+      "name": "MATHS17-COMBINATIONS.pdf",
+      "path": "MATHS17-COMBINATIONS.pdf"
+    },
+    {
+      "type": "file",
+      "name": "MATHS18-BINOMIAL_THEOREM.pdf",
+      "path": "MATHS18-BINOMIAL_THEOREM.pdf"
+    },
+    {
+      "type": "file",
+      "name": "MATHS19-ARITHMETIC_PROGRESSIONS.pdf",
+      "path": "MATHS19-ARITHMETIC_PROGRESSIONS.pdf"
+    },
+    {
+      "type": "file",
+      "name": "MATHS20-GEOMETRIC_PROGRESSIONS.pdf",
+      "path": "MATHS20-GEOMETRIC_PROGRESSIONS.pdf"
+    },
+    {
+      "type": "file",
+      "name": "MATHS21-SOME_SPECIAL_SERIES.pdf",
+      "path": "MATHS21-SOME_SPECIAL_SERIES.pdf"
+    },
+    {
+      "type": "file",
+      "name": "MATHS22-BRIEF_REVIEW_OF_CARTESIAN_SYSTEM_OF_RECTANGULAR_CO_ORDINATES.pdf",
+      "path": "MATHS22-BRIEF_REVIEW_OF_CARTESIAN_SYSTEM_OF_RECTANGULAR_CO_ORDINATES.pdf"
+    },
+    {
+      "type": "file",
+      "name": "MATHS23-THE_STRAIGHT_LINES.pdf",
+      "path": "MATHS23-THE_STRAIGHT_LINES.pdf"
+    },
+    {
+      "type": "file",
+      "name": "MATHS24-THE_CIRCLE.pdf",
+      "path": "MATHS24-THE_CIRCLE.pdf"
+    },
+    {
+      "type": "file",
+      "name": "MATHS25-PARABOLA.pdf",
+      "path": "MATHS25-PARABOLA.pdf"
+    },
+    {
+      "type": "file",
+      "name": "MATHS26-ELLIPSE.pdf",
+      "path": "MATHS26-ELLIPSE.pdf"
+    },
+    {
+      "type": "file",
+      "name": "MATHS27-HYPERBOLA.pdf",
+      "path": "MATHS27-HYPERBOLA.pdf"
+    },
+    {
+      "type": "file",
+      "name": "MATHS28-INTRODUCTION_TO_3_D_COORDINATE_GEOMETRY.pdf",
+      "path": "MATHS28-INTRODUCTION_TO_3_D_COORDINATE_GEOMETRY.pdf"
+    },
+    {
+      "type": "file",
+      "name": "MATHS29-LIMITS.pdf",
+      "path": "MATHS29-LIMITS.pdf"
+    },
+    {
+      "type": "file",
+      "name": "MATHS30-DERIVATIVES.pdf",
+      "path": "MATHS30-DERIVATIVES.pdf"
+    },
+    {
+      "type": "file",
+      "name": "MATHS31-MATHEMATICAL_REASONING.pdf",
+      "path": "MATHS31-MATHEMATICAL_REASONING.pdf"
+    },
+    {
+      "type": "file",
+      "name": "MATHS32-STATISTICS.pdf",
+      "path": "MATHS32-STATISTICS.pdf"
+    },
+    {
+      "type": "file",
+      "name": "MATHS33-PROBABILITY.pdf",
+      "path": "MATHS33-PROBABILITY.pdf"
+    }
+  ]
+}
